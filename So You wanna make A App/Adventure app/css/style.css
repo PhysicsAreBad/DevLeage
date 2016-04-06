@@ -1,0 +1,19 @@
+#story {
+	margin-top: 5px;
+	margin-bottom: 30px;
+	background-color: lightblue;
+	color:black;
+
+}
+body {
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	background-color: lightblue;
+	color:black;
+}
+#StartButton {
+	margin-bottom: 20px;
+}
+.stats {
+	text-align: right;
+}
