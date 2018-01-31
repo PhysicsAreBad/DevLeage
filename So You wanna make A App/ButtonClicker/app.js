@@ -17,6 +17,11 @@ document.getElementById('multi').innerHTML = "You get " + multiplier + " cakes p
 	};
 
 };
+document.body.onkeyup = function(e){
+    if(e.keyCode == 32){
+        press();
+    }
+}
 
 function reset () {
 	Uscore = 0;
